@@ -1,0 +1,12 @@
+thresholds:
+
+  block_rule_threshold: 60
+  block_semantic_threshold: 70
+
+weights:
+
+  rule_weight: 0.4
+  semantic_weight: 0.4
+  pii_weight: 0.2
+
+  rule_pattern_weight: 70
